@@ -108,7 +108,7 @@
         echo '<input type="submit" value="確定">';
         echo '</form>';
     }
-    echo '<p><a href="index1.php">一覧に戻る</a></p>';
+    echo '<p><a href="index.php">一覧に戻る</a></p>';
     ?>
 
 </body>
