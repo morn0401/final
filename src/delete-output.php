@@ -19,7 +19,7 @@
         echo '<p class="success-message">選手を削除しました</p>';
         ?>
 
-        <a href="index1.php" class="back-link">一覧へ戻る</a>
+        <a href="index.php" class="back-link">一覧へ戻る</a>
 
     </div>
 
