@@ -75,7 +75,7 @@
     $result2 = $sql2->fetch(PDO::FETCH_ASSOC);
     echo $result2['position_name'] . '<br>';
     echo 'に変更しました。</p>';
-    echo '<p><a href="index1.php">一覧に戻る</a></p>';
+    echo '<p><a href="index.php">一覧に戻る</a></p>';
     echo '</div>';
     ?>
 </body>
