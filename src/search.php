@@ -65,7 +65,7 @@
 
 <body>
 
-    <a href="index1.php">一覧に戻る</a>
+    <a href="index.php">一覧に戻る</a>
 
     <div class="container">
 
